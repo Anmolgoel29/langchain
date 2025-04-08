@@ -1,0 +1,21 @@
+{ 'llm': {
+     'messages': 
+        AIMessage(
+            content = "Hey bro! Not much, just chillin' and ready to help you out with whatever you need. What's up with you? 😎🔥", 
+            additional_kwargs = { 'refusal': None }, 
+            response_metadata = { 'token_usage': 
+                {
+                'completion_tokens': 31, 
+                'prompt_tokens': 8, 'total_tokens': 39, 'completion_tokens_details': None, 'prompt_tokens_details': None 
+                },
+                 'model_name': 'deepseek/deepseek-chat-v3-0324', 
+                 'system_fingerprint': None,
+                  'id': 'gen-1743491374-gsBVnjD1KE7HXVsPGblT', 
+                  'finish_reason': 'stop', 
+                  'logprobs': { 'content': [], 'refusal': [] } },
+                   id = 'run-7d4cd5cf-0cf3-4ad7-8f53-58c5e0321952-0',
+                   usage_metadata = { 
+                    'input_tokens': 8, 'output_tokens': 31, 'total_tokens': 39, 'input_token_details': {}, 'output_token_details': {} 
+            }) 
+    } }
+{ 'messages': AIMessage(content = "Hey bro! Not much, just chillin' and ready to help you out with whatever you need. What's up with you? 😎🔥", additional_kwargs = { 'refusal': None }, response_metadata = { 'token_usage': { 'completion_tokens': 31, 'prompt_tokens': 8, 'total_tokens': 39, 'completion_tokens_details': None, 'prompt_tokens_details': None }, 'model_name': 'deepseek/deepseek-chat-v3-0324', 'system_fingerprint': None, 'id': 'gen-1743491374-gsBVnjD1KE7HXVsPGblT', 'finish_reason': 'stop', 'logprobs': { 'content': [], 'refusal': [] } }, id = 'run-7d4cd5cf-0cf3-4ad7-8f53-58c5e0321952-0', usage_metadata = { 'input_tokens': 8, 'output_tokens': 31, 'total_tokens': 39, 'input_token_details': {}, 'output_token_details': {} }) }
